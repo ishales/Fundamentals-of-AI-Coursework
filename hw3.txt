@@ -1,0 +1,16 @@
+The graph1 was not satisfiable with 3 colors. 
+
+Graph 1 was satisfiable with 4 colors. 
+
+These results indicate that the graph coloring problem can be solved with 4 colors, but not with 3 colors. This gives us insight into the structure of the graph. 
+
+Given the structure of the graph found in graph1.png, the following is a solution with 4 colors:
+1 = red
+5 = green
+6 = blue
+7 = green
+2 = blue
+4 = red
+3 = yellow
+
+Looking at graph 2, I began trying colors to satisfy the graph beginning with 1 color. The graph was not satisfiable with 7 colors. However, it was satisfiable with 8 colors. This tells us that 8 is the minimum colors required to satisfy graph 2. 
